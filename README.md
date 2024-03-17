@@ -1,4 +1,5 @@
 # PowerBi_Mini-project
+**HealthCare Data - Patient Wait List**
 This Power BI Dashboard is all about managing healthcare data related to patient wait lists, including information on both inpatient and outpatient categories. Here's how we go about creating it:
 1. Gathering Information: We start by collecting all the necessary details about patient wait lists.
 2. Setting Objectives: We decide what we want to achieve with the dashboard once we have all the information.
